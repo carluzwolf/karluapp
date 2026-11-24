@@ -1,0 +1,19 @@
+{
+  "appId": "shop.starlyninfinite.karlu",
+  "appName": "Karlu",
+  "webDir": "www",
+  "backgroundColor": "#ffffff",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "BluetoothLe": {
+      "displayStrings": {
+        "scanning": "Procurando o Karlu...",
+        "cancel": "Cancelar",
+        "availableDevices": "Dispositivos disponíveis",
+        "noDeviceFound": "Nenhum Karlu encontrado"
+      }
+    }
+  }
+}
